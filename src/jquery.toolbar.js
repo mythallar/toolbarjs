@@ -15,6 +15,7 @@
  */
 
 import jQuery from 'jquery'
+import './jquery.toolbar.css'
 
 (function ($) {
     var ToolBar = {
